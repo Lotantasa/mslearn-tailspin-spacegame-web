@@ -1,4 +1,6 @@
 
+[![Build Status](https://dev.azure.com/322526393/Space%20Game%20-web%20-Workflow/_apis/build/status/Lotantasa.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/322526393/Space%20Game%20-web%20-Workflow/_build/latest?definitionId=3&branchName=master)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
